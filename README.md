@@ -6,6 +6,6 @@ Trello: https://trello.com/b/h4sfXjDp/tfm
 
 Enlace al dc: https://discord.gg/BXWaeD8Y
 
-Enlace a la plantilla Overfeaf: https://www.overleaf.com/4297532578qvzccxrbwkwb
+Enlace a la plantilla Overleaf: https://www.overleaf.com/4297532578qvzccxrbwkwb
 
 Probando github por primera vez
