@@ -5,3 +5,5 @@ Objetivo principal: probar diferentes estructuras ya creadas y probar cuál de e
 Trello: https://trello.com/b/h4sfXjDp/tfm
 
 Enlace al dc: https://discord.gg/BXWaeD8Y
+
+Probando github por primera vez
