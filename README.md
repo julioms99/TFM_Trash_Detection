@@ -9,6 +9,8 @@ Para llevar a cabo esta tarea usaremos el lenguaje de programación Python y nos
 
 ## Enlaces
 Trello: https://trello.com/b/h4sfXjDp/tfm
+
 Discord: https://discord.gg/BXWaeD8Y
+
 Overleaf: https://www.overleaf.com/4297532578qvzccxrbwkwb
 
